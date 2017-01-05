@@ -1,4 +1,4 @@
-export RUN_ROOT=~/Runnable
+export RUN_ROOT=~/workspace
 
 # Override for papyrus::display_json
 function papyrus::display_json {
